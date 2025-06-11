@@ -17,5 +17,7 @@
     "postcss": "^8.0.0",
     "autoprefixer": "^10.0.0",
     "typescript": "^5.0.0"
+    "@types/react": "latest",
+"@types/node": "latest"
   }
 }
