@@ -17,7 +17,17 @@ export default function Home() {
 
       <main className="min-h-screen bg-gray-50">
         <header className="max-w-4xl mx-auto py-4 flex justify-between items-center px-4">
-          <img src="/assets/logos/logo.png" alt="Rentering Logo" className="h-10" />
+          <img
+  src="/assets/logos/ICONOFINAL.png"
+  alt="Rentering Icon"
+  className="h-10"
+/>
+<img
+  src="/assets/logos/logo.png"
+  alt="Rentering Logo"
+  className="h-10 ml-4"
+/>
+
           <a href="#" className="text-gray-700 hover:text-gray-900">Sign in</a>
         </header>
 
